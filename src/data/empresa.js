@@ -38,21 +38,21 @@ export const empresa = {
     {
       nome: "Carlos Eduardo Cruz da Costa",
       cargo: "CEO e Engenheiro de Software",
-      foto: "/images/wanderson.jpg",
+      foto: "/images/carlostecvicar.jpeg",
       alt: "Foto de Carlos Eduardo Cruz da Costa",
       descricao: "Fundador TecVicar começou desenvolvendo sistemas de banco no banco da escola com seus amigos e hoje essa iniciativa virou negócio."
     },
     {
       nome: "Victor Emanoel Oliveira Lopes",
       cargo: "Diretor de Tecnologia (CTO) & Co-fundador",
-      foto: "/images/sheldon.jpg",
+      foto: "/images/victortecvicar.jpeg",
       alt: "Foto Victor Emanoel Oliveira Lopes",
       descricao: "começou desenvolvendo softwares junto com seu amigo Carlos sendo principal idealizador da equipe."
     },
     {
       nome: "Jove Oliveira dos Santos",
       cargo: "Líder de Design",
-      foto: "/images/amy.jpg",
+      foto: "/images/jovetecvicar.jpeg",
       alt: "Foto de Jove Oliveira dos Santos",
       descricao: "Responsável por organizar a imagem da empresa."
     }
